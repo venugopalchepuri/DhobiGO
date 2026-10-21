@@ -1,0 +1,6 @@
+{
+  "name": "Dhobi Tracker",
+  "description": "Personal laundry bag tracker, handwritten chit photo preservation, on-device slip OCR, item-level return counts, and WhatsApp sharing.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

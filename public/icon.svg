@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="128" fill="#2563EB" />
+  <circle cx="256" cy="256" r="180" fill="white" fill-opacity="0.12" />
+  <path d="M170 170 C170 140, 210 120, 256 120 C302 120, 342 140, 342 170 C342 195, 320 205, 300 215 L360 380 C365 395, 350 410, 335 410 L177 410 C162 410, 147 395, 152 380 L212 215 C192 205, 170 195, 170 170 Z" fill="white" />
+  <!-- Knot / tie string -->
+  <path d="M212 215 Q256 230 300 215" stroke="#2563EB" stroke-width="16" stroke-linecap="round" fill="none" />
+  <circle cx="256" cy="216" r="14" fill="#1D4ED8" />
+  <path d="M256 226 L230 270 M256 226 L282 270" stroke="#1D4ED8" stroke-width="10" stroke-linecap="round" />
+  <!-- Slip tag attached -->
+  <rect x="290" y="270" width="75" height="95" rx="10" transform="rotate(12 290 270)" fill="#FEF3C7" stroke="#D97706" stroke-width="4" />
+  <line x1="305" y1="295" x2="345" y2="303" stroke="#B45309" stroke-width="4" stroke-linecap="round" />
+  <line x1="303" y1="315" x2="340" y2="323" stroke="#B45309" stroke-width="4" stroke-linecap="round" />
+  <line x1="301" y1="335" x2="330" y2="341" stroke="#B45309" stroke-width="4" stroke-linecap="round" />
+</svg>
